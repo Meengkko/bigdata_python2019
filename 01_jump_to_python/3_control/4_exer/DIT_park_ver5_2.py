@@ -12,7 +12,7 @@ infomation = """
 info_dictionary = {"유아":0,"어린이":2000,"청소년":3000,"성인":5000,"노인":0}
 coupons = {"무료 티켓":5, "할인 티켓":3}
 customer_counter = 0
-is_perchased = False
+is_purchased = False
 
 while True:
     print(infomation)
@@ -37,19 +37,19 @@ while True:
         if checkIn < info_dictionary[customer_level]:
             print("\n%d원이 모자랍니다. 입력하신 %d원을 반납합니다." % (((info_dictionary[customer_level]) - checkIn), checkIn))
         else:
-            is_perchased = True
+            is_purchased = True
             if checkIn == info_dictionary[customer_level]:
                 print("\n감사합니다. 티켓을 발행합니다.")
             else:
                 print("\n감사합니다. 티켓을 발행하고 거스름돈 %d원을 반환합니다." % (checkIn - (info_dictionary[customer_level])))
     elif cashOrCredit == 2:
-        is_perchased = True
+        is_purchased = True
         credit_pay = info_dictionary[customer_level] * 0.9
         if customer_age in range(60, 66):
             credit_pay *= 0.95
         print("\n%.0f원 결제 되었습니다. 티켓을 발행합니다." % (credit_pay))
 
-    if is_perchased and customer_level not in ['유아', '노인']:
+    if is_purchased and customer_level not in ['유아', '노인']:
         customer_counter += 1
         print("\n%d번째 고객" % customer_counter)
         if customer_counter % 7 == 0 and coupons["무료 티켓"] != 0:
@@ -58,4 +58,4 @@ while True:
         elif customer_counter % 4 == 0 and coupons["할인 티켓"] != 0:
             coupons["할인 티켓"] = coupons["할인 티켓"] - 1
             print("\n축하합니다. 연간회원권 구매 이벤트에 당첨되셨습니다. 연간 회원 할인 티켓을 발행합니다. 잔여 할인티켓 %d장" % coupons["할인 티켓"])
-        is_perchased = False
+        is_purchased = False

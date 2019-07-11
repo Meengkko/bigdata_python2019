@@ -1,21 +1,23 @@
+# coding: UTF-8
+
+
 def show_candidate(candidate_list):
     print(candidate_list)
 
 
 def make_idol(candidate_list):
     for idol_app in candidate_list:
-        print("½Å¿¹ ¾ÆÀÌµ¹", idol_app, "ÀÎ±â ±Ş»ó½Â")
+        print("ì‹ ì˜ˆ ì•„ì´ëŒ", idol_app, "ì¸ê¸° ê¸‰ìƒìŠ¹")
 
 
 def make_world_star(candidate_list):
     for idol_app in candidate_list:
-        print("¾ÆÀÌµ¹", idol_app, "¿ùµå½ºÅ¸ µî±Ø")
+        print("ì•„ì´ëŒ", idol_app, "ì›”ë“œìŠ¤íƒ€ ë“±ê·¹")
 
 
-with open("¿¬½À»ı.txt", 'r') as app_file:
+with open("ì—°ìŠµìƒ.txt", 'r', encoding = 'UTF-8') as app_file:
     data = app_file.read()
-    candidate = data.split("‚n")
-    candidate.remove('')
+    candidate = data.split("\n")
     show_candidate(candidate)
     make_idol(candidate)
     make_world_star(candidate)

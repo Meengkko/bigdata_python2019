@@ -1,5 +1,5 @@
 def search_visitor(name):
-    with open("방명록.txt", 'r') as name_file:
+    with open("방명록.txt", 'r', encoding='UTF-8') as name_file:
         if name in name_file.read():
             return name
         else:
@@ -11,7 +11,7 @@ while True:
         print("%s님 다시 방문해주셔서 감사합니다. 즐거운 시간되세요." %guest_name)
     else:
         guest_birth = input("생년월일을 입력하세요 (예:801212): ")
-        with open("방명록.txt", 'a') as add_info:
+        with open("방명록.txt", 'a', encoding='UTF-8') as add_info:
             data = "%s %s\n" % (guest_name, guest_birth)
             add_info.write(data)
         print("%s님 환영합니다. 아래 내용을 입력하셨습니다.\n%s %s"%(guest_name, guest_name, guest_birth))

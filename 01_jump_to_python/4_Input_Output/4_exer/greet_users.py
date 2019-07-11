@@ -2,6 +2,7 @@ import sys
 
 
 args = sys.argv[1:]
+print(args)
 
 
 def greet_users(usernames):

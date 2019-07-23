@@ -1,0 +1,111 @@
+<student_list>
+	<student ID="ITT002" name="&#50980;&#48124;&#49440;" sex="&#50668;">
+		<age>25</age>
+		<major>&#52980;&#54504;&#53552; &#44277;&#54617;</major>
+		<practicable_computer_languages>
+			<language level="&#51473;" name="C">
+				<period value="1&#45380;" />
+			</language>
+			<language level="&#54616;" name="Java">
+				<period value="1&#45380;" />
+			</language>
+			<language level="&#49345;" name="C++">
+				<period value="6&#44060;&#50900;" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT003" name="&#44608;&#49345;&#48124;" sex="&#45224;">
+		<age>30</age>
+		<major>&#51204;&#51088; &#44277;&#54617;</major>
+		<practicable_computer_languages>
+			<language level="&#54616;" name="C">
+				<period value="6&#44060;&#50900;" />
+			</language>
+			<language level="&#54616;" name="C++">
+				<period value="6&#44060;&#50900;" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT005" name="&#48149;&#44508;&#46041;" sex="&#45224;">
+		<age>29</age>
+		<major>&#52380;&#47928;&#50864;&#51452;&#44284;&#54617;</major>
+		<practicable_computer_languages>
+			<language level="&#51473;" name="Java">
+				<period value="2&#45380; 6&#44060;&#50900;" />
+			</language>
+			<language level="&#51473;&#54616;" name="Ruby">
+				<period value="6&#44060;&#50900;" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT006" name="&#44608;&#52824;&#50864;" sex="&#45224;">
+		<age>30</age>
+		<major>&#50689;&#50612;&#50689;&#47928;&#54617;&#44284;</major>
+		<practicable_computer_languages />
+	</student>
+	<student ID="ITT007" name="&#48124;&#54788;&#44592;" sex="&#45224;">
+		<age>28</age>
+		<major>&#53685;&#44228;&#48709;&#45936;&#51060;&#53552;</major>
+		<practicable_computer_languages>
+			<language level="&#51473;" name="sas">
+				<period value="1&#45380;" />
+			</language>
+			<language level="&#54616;" name="R">
+				<period value="1&#45380;" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT008" name="&#44608;&#50896;&#49345;" sex="&#45224;">
+		<age>32</age>
+		<major>&#50864;&#51452;&#51221;&#48373;&#44284;</major>
+		<practicable_computer_languages>
+			<language level="&#54616;" name="python">
+				<period value="3&#44060;&#50900;" />
+			</language>
+			<language level="&#51473;" name="C">
+				<period value="1&#45380;" />
+			</language>
+		</practicable_computer_languages>
+		<practicable_computer_languages>
+			<language level="&#54616;" name="python">
+				<period value="3&#44060;&#50900;" />
+			</language>
+			<language level="&#51473;" name="C">
+				<period value="1&#45380;" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT009" name="&#54861;&#48124;&#49440;" sex="&#50668;">
+		<age>24</age>
+		<major>&#53685;&#44228;&#54617;&#44284;</major>
+		<practicable_computer_languages>
+			<language level="&#51473;" name="R">
+				<period value="1&#45380;" />
+			</language>
+			<language level="&#54616;" name="SPSS">
+				<period value="1&#45380;" />
+			</language>
+		</practicable_computer_languages>
+		<practicable_computer_languages>
+			<language level="&#51473;" name="R">
+				<period value="1&#45380;" />
+			</language>
+			<language level="&#54616;" name="SPSS">
+				<period value="1&#45380;" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT010" name="&#44053;&#48124;&#49436;" sex="&#45224;">
+		<age>30</age>
+		<major>&#54665;&#51221;&#54617;&#44284;</major>
+		<practicable_computer_languages>
+			<language level="&#51473;" name="SPSS">
+				<period value="1&#45380;" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT011" name="&#54861;&#44600;&#46041;" sex="&#45224;">
+		<age>33</age>
+		<major>&#49328;&#47548;</major>
+	</student>
+</student_list>

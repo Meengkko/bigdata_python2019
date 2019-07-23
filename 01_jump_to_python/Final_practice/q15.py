@@ -4,4 +4,4 @@ for i in range(len(input_numstr)):
     if len(listed_numbers) == len(set(listed_numbers)):
         print("true", end=' ')
     else:
-        print('false', end=' ')
+        print("false", end=' ')

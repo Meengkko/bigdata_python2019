@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ac1d53-1c61-472d-9ecf-21ce2907b523" name="Default Changelist" comment="7월 11일">
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,44 +22,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="-809">
+              <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
               <folding>
-                <element signature="e#23#32#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/금값_naver_news.json">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](201711 ~ 201712).json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20161 ~ 201712).json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/중국(112)_해외방문객정보_2017_2017.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="96">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20171 ~ 201712).json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search2.py">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_selected.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-              <folding>
-                <element signature="e#85#106#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_all.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -74,14 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_jump_to_python/level1_log.txt" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/Final_Project.py" />
-        <option value="$PROJECT_DIR$/02_sentdex_intermediate/6_Timeit_module.py" />
-        <option value="$PROJECT_DIR$/02_sentdex_intermediate/7_Enumerate.py" />
-        <option value="$PROJECT_DIR$/02_sentdex_intermediate/8_Zip.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/RP_test/Remote_Test.py" />
-        <option value="$PROJECT_DIR$/02_sentdex_intermediate/9_Writing_our_own_generator.py" />
-        <option value="$PROJECT_DIR$/02_sentdex_intermediate/10_Multiprocessing.py" />
         <option value="$PROJECT_DIR$/02_sentdex_intermediate/11_Getting_returned_values_from_processes.py" />
         <option value="$PROJECT_DIR$/02_sentdex_intermediate/13_Object_oriented_programming_intro.py" />
         <option value="$PROJECT_DIR$/02_raspberry_pi/1_LED/1_238.py" />
@@ -125,12 +149,20 @@
         <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" />
         <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py" />
         <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/test.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample.json" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20171 ~ 201712).json" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-100" />
-    <option name="y" value="633" />
+    <option name="x" value="-89" />
+    <option name="y" value="522" />
     <option name="width" value="946" />
     <option name="height" value="636" />
   </component>
@@ -142,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +198,15 @@
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_OpenAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="01_XML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="01_XML" type="462c0819:PsiDirectoryNode" />
+              <item name="practice2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
@@ -173,7 +214,13 @@
               <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
               <item name="02_OpenAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Naver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="03_json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
@@ -188,29 +235,28 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\02_OpenAPI\02_public_data\imigration_data" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML\practice2" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML\practice" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML" />
       <recent name="C:\Python_Workspace\03_sentdex_intermediate\Modularity" />
-      <recent name="C:\Python_Workspace\02_raspberry_pi\2_Switch" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\03_json" />
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML\practice" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\02_OpenAPI" />
       <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\2_Module" />
-      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\exer2" />
-      <recent name="C:\Python_Workspace\01_jump_to_python" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,7 +272,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.practice">
-    <configuration name="01_NEWS_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_PAPAGO_S" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,7 +284,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_NEWS_search2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,32 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02_SHOPPING_trend" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sample_data_debugger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,11 +343,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="service" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,19 +378,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice2" />
-      <item itemvalue="Python.01_NEWS_search" />
+      <item itemvalue="Python.practice (1)" />
+      <item itemvalue="Python.03_PAPAGO_S" />
+      <item itemvalue="Python.sample_data_debugger" />
+      <item itemvalue="Python.service" />
       <item itemvalue="Python.practice" />
-      <item itemvalue="Python.02_SHOPPING_trend" />
-      <item itemvalue="Python.01_NEWS_search2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.01_NEWS_search2" />
-        <item itemvalue="Python.02_SHOPPING_trend" />
-        <item itemvalue="Python.01_NEWS_search" />
-        <item itemvalue="Python.practice2" />
+        <item itemvalue="Python.service" />
+        <item itemvalue="Python.sample_data_debugger" />
+        <item itemvalue="Python.practice (1)" />
+        <item itemvalue="Python.03_PAPAGO_S" />
       </list>
     </recent_temporary>
   </component>
@@ -409,12 +455,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83967704" visible="true" weight="0.24324325" />
-      <window_info id="Structure" order="1" sideWeight="0.16032295" side_tool="true" visible="true" weight="0.24324325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82608694" visible="true" weight="0.35930046" />
+      <window_info id="Structure" order="1" sideWeight="0.17391305" side_tool="true" visible="true" weight="0.35930046" />
       <window_info id="Favorites" order="2" sideWeight="0.5009862" side_tool="true" weight="0.19713831" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36793542" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33679354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3298731" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,203 +523,79 @@
           <line>47</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="student.find('practicable_computer_languages').text" language="Python" />
         <watch expression="__py_debug_temp_var_106414603" />
-        <watch expression="student.find('practicable_computer_languages')" language="Python" />
+        <watch expression="student_json_big_data[&quot;response&quot;][&quot;body&quot;][&quot;items&quot;][&quot;item&quot;]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>student.find('practicable_computer_languages').text</expression-string>
+        <expression-string>student_json_big_data[&quot;response&quot;][&quot;body&quot;][&quot;items&quot;][&quot;item&quot;]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>student.find('practicable_computer_languages')</expression-string>
+        <expression-string>g_json_big_data[0][&quot;total_course_info&quot;][&quot;learning_course_info&quot;][0][&quot;close_date&quot;]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>age</expression-string>
+        <expression-string>g_json_big_data[0][&quot;total_course_info&quot;][&quot;num_of_course_learned&quot;][0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>read_lines[i][2]</expression-string>
+        <expression-string>g_json_big_data[0][&quot;total_course_info&quot;][&quot;learning_course_info&quot;][0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(read_lines)</expression-string>
+        <expression-string>g_json_big_data[0][&quot;total_course_info&quot;][&quot;num_of_course_learned&quot;]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(random_candid)</expression-string>
+        <expression-string>g_json_big_data[0][total_course_info][num_of_course_learned]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(result)</expression-string>
+        <expression-string>g_json_big_data[2]['student_name']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>result[i+1]</expression-string>
+        <expression-string>g_json_big_data[2]['name']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>result[i]</expression-string>
+        <expression-string>g_json_big_data[0]['address']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>g_json_big_data[0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/my_mod2/mod6_controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mymodule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod3_controller.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod5_controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q13.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q10.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q9.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/Modularity/16_Object_modularity_thought.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#129#142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/Modularity/blob.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/9_Korean.py" />
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/8_Zip.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/9_Writing_our_own_generator.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/10_Multiprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/11_Getting_returned_values_from_processes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/13_Object_oriented_programming_intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_sentdex_intermediate/7_Enumerate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/note.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice/Practice_parcing_only.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/1_basic.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/2_subelement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -776,14 +698,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/일본_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/블랙홀_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127398" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/일본_naver_news.json" />
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/블랙홀_naver_news.json" />
     <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -800,27 +716,74 @@
     <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/아베_naver_news.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/코스피_naver_news.json">
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/금값_naver_news.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648" />
+        <state relative-caret-position="177">
+          <caret line="823" selection-start-line="823" selection-end-line="823" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6576">
-          <caret line="289" lean-forward="true" selection-start-line="289" selection-end-line="289" />
+        <state relative-caret-position="7752">
+          <caret line="324" selection-start-line="324" selection-end-line="324" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/코스피_naver_news.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/출입국관광통계조회.json" />
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#23#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/금값_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/03_json/ITT_Student.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="e#775#1024#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
+        <state relative-caret-position="1320">
           <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
           <folding>
             <element signature="e#85#106#0" expanded="true" />
@@ -828,22 +791,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py">
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py">
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/유료관광지방문객수조회 (1).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/유료관광지방문객수조회.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
-            <element signature="e#23#32#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/서울특별시_관광지입장정보_2011_2016.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20181 ~ 201812).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/중국(112)_해외방문객정보_2017_2017.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20171 ~ 201712).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20161 ~ 201712).json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](201710 ~ 201712).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](201711 ~ 201712).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20177 ~ 201712).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_all.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_selected.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809">
+          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>

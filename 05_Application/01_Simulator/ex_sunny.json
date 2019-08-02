@@ -1,0 +1,20 @@
+{"response":
+  {"header":
+    {"resultCode":"0000","resultMsg": "OK"},
+    "body":
+      {"items":
+        {"item":
+          [
+            {"datetime":"2019-07-30 14:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 1, "pm25Grade1h": 1, "RP": 0, "RS": 0 },
+            {"datetime":"2019-07-30 15:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 1, "pm25Grade1h": 1, "RP": 0, "RS": 0 },
+            {"datetime":"2019-07-30 16:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 3, "pm25Grade1h": 2, "RP": 0, "RS": 0 },
+            {"datetime":"2019-07-30 17:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 4, "pm25Grade1h": 4, "RP": 0, "RS": 0 },
+            {"datetime":"2019-07-30 18:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 3, "pm25Grade1h": 4, "RP": 0, "RS": 0 },
+            {"datetime":"2019-07-30 19:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 2, "pm25Grade1h": 2, "RP": 0, "RS": 0 },
+            {"datetime":"2019-07-30 20:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 2, "pm25Grade1h": 1, "RP": 0, "RS": 0 },
+            {"datetime":"2019-07-30 21:00", "so2Value":0.002, "no2Value":0.004, "pm10Grade1h": 1, "pm25Grade1h": 1, "RP": 0, "RS": 0 }
+          ]
+        }
+      }
+  }
+}

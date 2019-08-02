@@ -2,13 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ac1d53-1c61-472d-9ecf-21ce2907b523" name="Default Changelist" comment="7월 11일">
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sinamdong_weather/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/1_BeautifulSoup_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/2_get_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/3_Naver_film_ranking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/4_Naver_film_ranking_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/01_regident_registration_number_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/02_regident_registration_number_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/03_298.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/04_294_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/05_294_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/06_294_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/07_294_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/08_295.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/09_296.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/10_299_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/11_300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/12_300_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/13_301.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/14_302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/15_303_option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/16_307_back_slash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/17_309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/18_310.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/19_318_option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/re_notepad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/01_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/02_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/03_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/04_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/05_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/06_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/07_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/08_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/09_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/10_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/11_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/12_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/13_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/14_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/15_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/16_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/17_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/19_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/20_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/21_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/22_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/23_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/24_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/25_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/26_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/27_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/28_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/29_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/30_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/31_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/32_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/33_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/34_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/38_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/39_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/40_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/41_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/42_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/43_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/01_312.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/02_312_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/03_313.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/04_314_Backreferences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/05_315.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/06_316_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/07_316_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/08_315_Negative_Lookahead_Assertion_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/09_315_Negative_Lookahead_Assertion_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/10_315_Negative_Lookahead_Assertion_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/11_315_Negative_Lookahead_Assertion_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/12_315_Negative_Lookahead_Assertion_v5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/13_318.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/14_319.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Application/01_Simulator/1_simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Application/01_Simulator/2_simulator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Application/01_Simulator/ex_rainy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Application/01_Simulator/ex_sunny.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Application/01_Simulator/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Application/01_Simulator/test_IOT_simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Application/01_Simulator/xml_tester.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/~$문화관광연구원 출입국관광통계서비스 활용가이드_v1.1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/OpenAPI 사용자 활용가이드(기상청_신규 동네예보정보조회서비스)_v2.5.hwp" beforeDir="false" afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/OpenAPI 사용자 활용가이드(기상청_신규 동네예보정보조회서비스)_v2.5.hwp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/동네예보조회서비스_격자_위경도_20190107.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/동네예보조회서비스_격자_위경도_20190107.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +106,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/4_Naver_film_ranking_re.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-809">
-              <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+            <state relative-caret-position="432">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -33,62 +118,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](201711 ~ 201712).json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/3_Naver_film_ranking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20161 ~ 201712).json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/중국(112)_해외방문객정보_2017_2017.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20171 ~ 201712).json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+            <state relative-caret-position="312">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding>
-                <element signature="e#0#48#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_selected.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_all.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -106,65 +145,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02_sentdex_intermediate/11_Getting_returned_values_from_processes.py" />
-        <option value="$PROJECT_DIR$/02_sentdex_intermediate/13_Object_oriented_programming_intro.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/1_LED/1_238.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/2_Switch/1_247.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/2_Switch/2_249.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/3_Ultrasonic/1_my_ultrasonic.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/4_servo_motor/4_servo_motor.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/6_LED_matrix/1_my_led_marrix.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/7_Buzzer/1_my_buzzer.py" />
-        <option value="$PROJECT_DIR$/03_sentdex_intermediate/10_Multiprocessing.py" />
-        <option value="$PROJECT_DIR$/02_raspberry_pi/Simple_project/controller_original.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/my_mod3/mymodule.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/my_mod3/Module_exer.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/Module_exer.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/Final_practice/q15.py" />
-        <option value="$PROJECT_DIR$/03_sentdex_intermediate/13_Object_oriented_programming_intro.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/1_basic.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/2_subelement.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/3_indert_remove.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/3_insert_remove.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/4_attribute.py" />
-        <option value="$PROJECT_DIR$/03_sentdex_intermediate/Modularity/blob.py" />
-        <option value="$PROJECT_DIR$/03_sentdex_intermediate/Modularity/16_Object_modularity_thought.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/5_Element_with_attribute.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/6_change_value_to_attribute.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/7_complete_with_indentation.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/note.xml" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/8_XML_Parsing.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean2.xml" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/9_Korean.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/10_Readable_Korean.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean.xml" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/13_test.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Practice.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/12_Read_Korean.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice/13_test.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice/Practice1.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice/Practice.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/students_info2.xml" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/test.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample.json" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20171 ~ 201712).json" />
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/10_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/11_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/12_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/13_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/15_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/16_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/17_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/18_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/20_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/21_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/22_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/01_312.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/03_313.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/02_312_2.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/04_314_Backreferences.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/05_315.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/06_316_1.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/07_316_2.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/08_315_Negative_Lookahead_Assertion_v1.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/08_315_Negative_Lookahead_Assertion_v2.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/08_315_Negative_Lookahead_Assertion_v3.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/08_315_Negative_Lookahead_Assertion_v4.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/08_315_Negative_Lookahead_Assertion_v5.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/13_318.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/14_319.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_18.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_19.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_20.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/23_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/24_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/25_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/26_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/27_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/28_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/29_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/30_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/31_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/32_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/33_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/34_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/36_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/38_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/39_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/40_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/41_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/42_practice.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/1_BeautifulSoup_html.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/2_get_html.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/5_tester.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/4_Naver_film_ranking_re.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/3_Naver_film_ranking.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-89" />
-    <option name="y" value="522" />
-    <option name="width" value="946" />
-    <option name="height" value="636" />
+    <option name="x" value="137" />
+    <option name="y" value="83" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,7 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +223,17 @@
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="Final_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,29 +247,46 @@
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="01_XML" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Web_crawling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="01_XML" type="462c0819:PsiDirectoryNode" />
-              <item name="practice2" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Web_crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Beautiful_Soup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_OpenAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Web_crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Regular_Expression" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="03_json" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Web_crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Regular_Expression" type="462c0819:PsiDirectoryNode" />
+              <item name="02_resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Web_crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Regular_Expression" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Intermediate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Application" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
@@ -235,28 +301,29 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\02_OpenAPI\02_public_data\imigration_data" />
-      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML\practice2" />
-      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML\practice" />
-      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML" />
-      <recent name="C:\Python_Workspace\03_sentdex_intermediate\Modularity" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\05_Application\01_Simulator" />
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\02_OpenAPI" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\03_json" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\01_XML\practice" />
-      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\02_OpenAPI" />
-      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\2_Module" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\04_Web_crawling\01_Beautiful_Soup" />
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\04_Web_crawling\02_Regular_Expression\02_resource" />
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\04_Web_crawling\02_Regular_Expression\03_Intermediate" />
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\04_Web_crawling\02_Regular_Expression\01_Basic" />
+      <recent name="C:\Python_Workspace\05_Application\01_Simulator" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,8 +338,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practice">
-    <configuration name="03_PAPAGO_S" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3_Naver_film_ranking">
+    <configuration name="1_BeautifulSoup_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,11 +347,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/1_BeautifulSoup_html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +360,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_get_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,11 +368,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/2_get_html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +381,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_Naver_film_ranking" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,11 +389,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/3_Naver_film_ranking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +402,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample_data_debugger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_Naver_film_ranking_re" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,11 +410,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/4_Naver_film_ranking_re.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +423,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="service" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5_tester" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,11 +431,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/5_tester.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +445,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice (1)" />
-      <item itemvalue="Python.03_PAPAGO_S" />
-      <item itemvalue="Python.sample_data_debugger" />
-      <item itemvalue="Python.service" />
-      <item itemvalue="Python.practice" />
+      <item itemvalue="Python.1_BeautifulSoup_html" />
+      <item itemvalue="Python.2_get_html" />
+      <item itemvalue="Python.3_Naver_film_ranking" />
+      <item itemvalue="Python.4_Naver_film_ranking_re" />
+      <item itemvalue="Python.5_tester" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.service" />
-        <item itemvalue="Python.sample_data_debugger" />
-        <item itemvalue="Python.practice (1)" />
-        <item itemvalue="Python.03_PAPAGO_S" />
+        <item itemvalue="Python.3_Naver_film_ranking" />
+        <item itemvalue="Python.4_Naver_film_ranking_re" />
+        <item itemvalue="Python.5_tester" />
+        <item itemvalue="Python.1_BeautifulSoup_html" />
+        <item itemvalue="Python.2_get_html" />
       </list>
     </recent_temporary>
   </component>
@@ -454,13 +521,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82608694" visible="true" weight="0.35930046" />
-      <window_info id="Structure" order="1" sideWeight="0.17391305" side_tool="true" visible="true" weight="0.35930046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80071175" visible="true" weight="0.25596184" />
+      <window_info id="Structure" order="1" sideWeight="0.19928825" side_tool="true" visible="true" weight="0.25596184" />
       <window_info id="Favorites" order="2" sideWeight="0.5009862" side_tool="true" weight="0.19713831" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32871974" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33679354" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32756633" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35178778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3298731" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,17 +596,46 @@
           <line>9</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/01_regident_registration_number_python.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_Application/01_Simulator/2_simulator2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_Application/01_Simulator/2_simulator2.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="__py_debug_temp_var_106414603" />
-        <watch expression="student_json_big_data[&quot;response&quot;][&quot;body&quot;][&quot;items&quot;][&quot;item&quot;]" language="Python" />
+        <watch expression="data.split(&quot;\n&quot;)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>word</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>line</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.split(&quot;\n&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>student_json_big_data[&quot;response&quot;][&quot;body&quot;][&quot;items&quot;][&quot;item&quot;]</expression-string>
         <language-id>Python</language-id>
@@ -574,342 +671,285 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>g_json_big_data[2]['name']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g_json_big_data[0]['address']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g_json_big_data[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/2_subelement.py">
+    <entry file="file://$PROJECT_DIR$/05_Application/01_Simulator/service.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice/13_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice/Practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-674">
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/6_change_value_to_attribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/12_Read_Korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/4_attribute.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/5_element_with_attribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/10_Readable_Korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/7_complete_with_indentation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-376">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/8_XML_Parsing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2_copy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/3_insert_remove.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice/students_info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/students_info2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/students_info2_modify.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/students_info2 (1).xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/일본_naver_news.json" />
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/블랙홀_naver_news.json" />
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="64" column="76" selection-start-line="64" selection-start-column="76" selection-end-line="64" selection-end-column="76" />
-          <folding>
-            <element signature="e#85#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/나스닥_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/아베_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/금값_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="823" selection-start-line="823" selection-end-line="823" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7752">
-          <caret line="324" selection-start-line="324" selection-end-line="324" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/Korean2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/코스피_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/출입국관광통계조회.json" />
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/02_SHOPPING_trend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/03_json/ITT_Student.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-          <folding>
-            <element signature="e#775#1024#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-          <folding>
-            <element signature="e#85#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/03_PAPAGO_S.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/유료관광지방문객수조회 (1).json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/유료관광지방문객수조회.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/03_json/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="175" selection-start-line="175" selection-end-line="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/sample_data_debugger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state>
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/서울특별시_관광지입장정보_2011_2016.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20181 ~ 201812).json">
+    <entry file="file://$PROJECT_DIR$/05_Application/01_Simulator/test_IOT_simulator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/중국(112)_해외방문객정보_2017_2017.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20171 ~ 201712).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20161 ~ 201712).json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](201710 ~ 201712).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1896">
-          <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](201711 ~ 201712).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/해외방문객정보[42개국](20177 ~ 201712).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/01_XML/practice2/practice2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+        <state relative-caret-position="24">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_all.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/national_code_selected.txt">
+    <entry file="file://$PROJECT_DIR$/05_Application/01_Simulator/simulator_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="-4646">
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/imigration_data/practice.py">
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/02_public_data/service.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-809">
-          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/2_get_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/04_314_Backreferences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/05_315.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/25_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/23_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/30_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/32_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/40_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/42_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/31_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/5_tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#37#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/16_practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/04_practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/16_307_back_slash.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/re_notepad.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/19_318_option.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/18_310.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/01_Basic/14_302.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/08_315_Negative_Lookahead_Assertion_v1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/09_315_Negative_Lookahead_Assertion_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/11_315_Negative_Lookahead_Assertion_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/1_BeautifulSoup_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/34_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/14_319.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/06_316_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/12_315_Negative_Lookahead_Assertion_v5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/13_318.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/lisence_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/10_315_Negative_Lookahead_Assertion_v3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/03_313.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/03_Intermediate/02_312_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/11_practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/13_practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/17_practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/19_practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/02_Regular_Expression/02_resource/12_practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q15.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q14.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q16.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_practice/q6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/4_Naver_film_ranking_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/04_Web_crawling/01_Beautiful_Soup/3_Naver_film_ranking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>

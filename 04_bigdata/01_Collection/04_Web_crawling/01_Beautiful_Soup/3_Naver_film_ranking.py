@@ -11,7 +11,7 @@ signer = {'up': 1, 'down': -1, 'na': 0}
 tags = soup.findAll('tr')
 for tag in tags:
     if tag.find('a'):
-        rank_list.append([rank, tag.find('a').text, signer[tag.find('img', attrs={'class':'arrow'}).attrs['alt']]*int(tag.find('td', attrs={'class': 'range ac'}).text)])
+        rank_list.append([rank, tag.find('a').text, signer[tag.find('td', attrs={'class':'range ac'})['alt']]*int(tag.find('td', {'class': 'range ac'}).text)])
         rank = rank + 1
 
 with open('네이버_영화_실시간_순위.csv', 'w', newline="") as naver_rank:

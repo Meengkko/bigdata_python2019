@@ -21,6 +21,7 @@ g_AI_Mode = False
 scheduler_cycle = 3600
 yyyymmdd = time.strftime('%Y%m%d', time.localtime(time.time()))
 
+
 def get_Requrest_URL(url):
     req = urllib.request.Request(url)
     try:
@@ -32,6 +33,7 @@ def get_Requrest_URL(url):
         print(e)
         print("[%s] Error for URL: %s" % (datetime.datetime.now(), url))
         return None
+
 
 def get_dust_URL():
     # p18
@@ -45,6 +47,7 @@ def get_dust_URL():
     else:
         return json.loads(retData)
 
+
 def Make_dust_Json():
     jsonData = get_dust_URL()
     for data in jsonData['list']:
@@ -56,6 +59,7 @@ def Make_dust_Json():
         outfile.write(retJson)
     # print('대구_실시간_미세먼지_%s.json' % (yyyymmdd))
     return json_dust_result
+
 
 def get_Weather_URL(day_time):
     base_date = time.strftime('%Y%m%d', time.localtime(time.time()))
@@ -70,6 +74,7 @@ def get_Weather_URL(day_time):
     else:
         return json.loads(retData)
 
+
 def Make_Weather_Json(day_time):
     jsonData = get_Weather_URL(day_time)
 
@@ -82,6 +87,7 @@ def Make_Weather_Json(day_time):
     # print('동구_신암동_초단기예보조회_%s.json' % (yyyymmdd))
     return json_weather_result
 
+
 def get_Realtime_Weather_Info():
     if time.localtime().tm_min in range(0,31):
         real_time = str(time.localtime().tm_hour - 1) + '59'
@@ -90,6 +96,7 @@ def get_Realtime_Weather_Info():
     if len(real_time) == 3:
         real_time = '0' + real_time
     return Make_Weather_Json(real_time)
+
 
 def terminate_ai_mode():
     if not ai_scheduler.isAlive():
@@ -103,6 +110,7 @@ def terminate_ai_mode():
         ctypes.pythonapi.PyThreadState_SetAsyncExc(ai_scheduler.ident, None)
         raise SystemError("PyThreadState_SetAsyncExc failed")
 
+
 def update_scheduler():
     while True:
         time.sleep(scheduler_cycle)
@@ -110,6 +118,7 @@ def update_scheduler():
         dust_data = Make_dust_Json()
         weather_data = get_Realtime_Weather_Info()
         AI_Mode(dust_data, weather_data)
+
 
 def AI_Mode(dust_data, weather_data):
     global g_Balcony_Windows
@@ -132,6 +141,7 @@ def AI_Mode(dust_data, weather_data):
         g_Balcony_Windows = False
         print("실외온도 28도 이상입니다. 창문을 닫고 에어컨을 킵니다.")
 
+
 def print_main_menu():
     print("\n1. 장비상태 확인")
     print("2. 장비제어")
@@ -139,10 +149,12 @@ def print_main_menu():
     print("4. 시뮬레이션 모드")
     print("5. 프로그램 종료")
 
+
 def print_device_status(device_name,devcie_status):
     print("%s 상태: " %device_name, end="")
     if devcie_status == True : print("작동")
     else: print("정지")
+
 
 def check_device_status():
     print('')
@@ -151,12 +163,14 @@ def check_device_status():
     print_device_status('발코니(베란다) 창문', g_Balcony_Windows)
     print_device_status('출입문 상태', g_Door)
 
+
 def print_device_menu():
     print("\n상태 변경할 기기를 선택하세요.")
     print("1. 난방기")
     print("2. 가스밸브")
     print("3. 발코니(베란다)창")
     print("4. 출입문")
+
 
 def control_device():
     global g_Radiator, g_Gas_Valve, g_Balcony_Windows, g_Door
@@ -171,6 +185,7 @@ def control_device():
     if menu_num == 4: g_Door = not g_Door
 
     check_device_status()
+
 
 def smart_mode():
     global g_AI_Mode

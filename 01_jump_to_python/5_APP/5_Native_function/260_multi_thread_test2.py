@@ -8,6 +8,7 @@ def long_task(thread_number):
         time.sleep(1)
         print(f"#{thread_number}thread working: {i+1}\n")
 
+
 s_dt = datetime.now()
 print(s_dt)
 

@@ -6,6 +6,7 @@ from datetime import datetime
 s_dt = datetime.now()
 print(s_dt)
 
+
 def long_task():
     print("쓰레드 구동!")
     while True:

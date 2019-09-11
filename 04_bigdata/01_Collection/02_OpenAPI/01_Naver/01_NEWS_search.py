@@ -55,7 +55,7 @@ def main():
     jsonResult = []
 
     sNode = 'news'
-    search_text = "코스피"
+    search_text = "수돗물"
     display_count = 100
 
     jsonSearch = getNaverSearchResult(sNode, search_text, 1, display_count)

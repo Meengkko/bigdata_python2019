@@ -5,7 +5,7 @@ import csv
 
 # 서비스명: 실시간 수도정보 수질(시간) 조회 서비스
 
-access_key = "sfPkIXPkje00cL1WP0GNzD%2BNDv015JrEjaAE0p3KEKTONcNwW%2F5D4IGVDxedGAbIbtzVkPQlQfCEXLiK0m31EA%3D%3D"
+access_key = ""
 output_file = '2018년_1월_취수장별_수질정보.csv'
 start_date_setting = '2019-01-01'
 start_timer = '11'

@@ -6,7 +6,7 @@ import os
 
 base_repository_name = 'Bigdata_Repository'
 dir_delimeter = '/'
-file_name = '시뮬레이션_서울특별시_관광지별_방문객'
+file_name = 'typeA'
 file_format = 'csv'
 initial_file_name = f'{base_repository_name}{dir_delimeter}{file_name}1.{file_format}'
 simulation_count = 100
@@ -35,7 +35,7 @@ if not os.path.exists(base_repository_name):
 
 def get_dest_file_name(file_index):
     global is_header
-    dest_file_name = f'{base_repository_name}{dir_delimeter}{file_name}{str(file_count())}.{file_format}'
+    dest_file_name = f'{base_repository_name}{dir_delimeter}{file_name}{str(file_index)}.{file_format}'
 
     try:
         file_size = os.path.getsize(dest_file_name)
@@ -61,7 +61,7 @@ def save_file(index):
 
     if is_header == True or is_first == True:
         header_list = ['addrCd', 'gungu', 'resNm', 'rnum', 'csForCnt', 'csNatCnt']
-        filewriter = csv.writer(csv_out_file)
+        filewriter.writerow(header_list)
 
     for index in range(simulation_count):
         get_tour_point_data(filewriter)

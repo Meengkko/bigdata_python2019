@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ac1d53-1c61-472d-9ecf-21ce2907b523" name="Default Changelist" comment="7월 11일">
-      <change afterPath="$PROJECT_DIR$/06_etc/Clustering/1_Introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_etc/Clustering/2_Handling_Non_Numeric_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_etc/Clustering/3_K_Means_with_Titanic_Dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_etc/Clustering/4_Custom_K_Means.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv_t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/5_db_mysql_write_to_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/6_db_mysql_update_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/7_db_mysql_load_from_csv_with_pk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO_ver1.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO_ver1.01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/bigdata_save.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,55 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/김원상_빅데이터저장소관리실습.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO_ver1.01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2856">
-              <caret line="121" selection-start-line="121" selection-end-line="121" />
+              <caret line="125" column="25" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_etc/Clustering/2_Handling_Non_Numeric_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_etc/Clustering/1_Introduction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06_etc/Clustering/4_Custom_K_Means.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_etc/Clustering/3_K_Means_with_Titanic_Dataset.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1392">
-              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -88,13 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/4_matplotlib_scatter_plot.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/2_Numerical_Derivative/1_derivatives_chain_rule.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/2_Numerical_Derivative/1_numerical_derivatives.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/4_Linear_Regression/ddd.csv" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/4_Linear_Regression/1_linear_regression.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/4_Linear_Regression/2_linear_regression2.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/4_Basic_machine_learning/1_XOR.py" />
         <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/1_Distributed_Repository.py" />
         <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/2_Distributed_Repository_v2.py" />
         <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/5_Distributed_Repository_v5.py" />
@@ -139,12 +93,19 @@
         <option value="$PROJECT_DIR$/06_etc/Clustering/2_Handling_Non_Numeric_data.py" />
         <option value="$PROJECT_DIR$/06_etc/Clustering/3_K_Means_with_Titanic_Dataset.py" />
         <option value="$PROJECT_DIR$/06_etc/Clustering/4_Custom_K_Means.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/5_db_mysql_write_to_file.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/6_db_mysql_update_from_csv.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/7_db_mysql_load_from_csv_with_pk.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv_t.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO_ver1.01.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="17" />
-    <option name="y" value="83" />
+    <option name="x" value="1655" />
+    <option name="y" value="74" />
     <option name="width" value="1296" />
     <option name="height" value="846" />
   </component>
@@ -156,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,41 +128,60 @@
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="06_etc" type="462c0819:PsiDirectoryNode" />
+              <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="06_etc" type="462c0819:PsiDirectoryNode" />
-              <item name="Clustering" type="462c0819:PsiDirectoryNode" />
+              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Standardization_Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Standardization_Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="3.DB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Standardization_Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="3.DB" type="462c0819:PsiDirectoryNode" />
+              <item name="output_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/06_etc/Clustering" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\06_etc\Clustering" />
-      <recent name="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\3.DB" />
-      <recent name="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\2.Excel" />
-      <recent name="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\1.CSV\Distributed_Repository" />
-      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\04_Web_crawling\01_Beautiful_Soup" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\3.DB" />
       <recent name="C:\Python_Workspace\06_etc\machine_learning_study\1_Libraries" />
       <recent name="C:\Python_Workspace\06_etc" />
       <recent name="C:\Python_Workspace\04_bigdata\01_Collection\04_Web_crawling\03_raspberry_pi_socket" />
       <recent name="C:\Python_Workspace\05_Application\01_Simulator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\3.DB" />
+      <recent name="C:\Python_Workspace\06_etc\Clustering" />
+      <recent name="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\2.Excel" />
+      <recent name="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\1.CSV\Distributed_Repository" />
+      <recent name="C:\Python_Workspace\04_bigdata\01_Collection\04_Web_crawling\01_Beautiful_Soup" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,8 +196,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4_Custom_K_Means">
-    <configuration name="1_Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.P_db_Student_INFO_ver1.01">
+    <configuration name="3_db_update_rows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_etc/Clustering" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_etc/Clustering/1_Introduction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/3_db_update_rows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_Handling_Non_Numeric_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_db_mysql_update_from_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,12 +226,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_etc/Clustering" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_etc/Clustering/2_Handling_Non_Numeric_data.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/6_db_mysql_update_from_csv.py" />
+      <option name="PARAMETERS" value="supplier_data.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -258,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_K_Means_with_Titanic_Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_db_mysql_load_from_csv_with_pk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,12 +247,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_etc/Clustering" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_etc/Clustering/3_K_Means_with_Titanic_Dataset.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/7_db_mysql_load_from_csv_with_pk.py" />
+      <option name="PARAMETERS" value="supplier_data.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -279,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_Custom_K_Means" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P_db_Student_INFO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,12 +268,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_etc/Clustering" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_etc/Clustering/4_Custom_K_Means.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="C:\Python_Workspace\04_bigdata\02_Standardization_Analysis\3.DB\P_db_Student_INFO_ver1.0.py" />
+      <option name="PARAMETERS" value="Basic_Student_Info.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -300,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bigdata_save" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P_db_Student_INFO_ver1.01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,12 +289,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/bigdata_save.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO_ver1.01.py" />
+      <option name="PARAMETERS" value="Basic_Student_Info.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -322,19 +303,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.bigdata_save" />
-      <item itemvalue="Python.1_Introduction" />
-      <item itemvalue="Python.2_Handling_Non_Numeric_data" />
-      <item itemvalue="Python.3_K_Means_with_Titanic_Dataset" />
-      <item itemvalue="Python.4_Custom_K_Means" />
+      <item itemvalue="Python.6_db_mysql_update_from_csv" />
+      <item itemvalue="Python.7_db_mysql_load_from_csv_with_pk" />
+      <item itemvalue="Python.P_db_Student_INFO" />
+      <item itemvalue="Python.3_db_update_rows" />
+      <item itemvalue="Python.P_db_Student_INFO_ver1.01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4_Custom_K_Means" />
-        <item itemvalue="Python.3_K_Means_with_Titanic_Dataset" />
-        <item itemvalue="Python.2_Handling_Non_Numeric_data" />
-        <item itemvalue="Python.1_Introduction" />
-        <item itemvalue="Python.bigdata_save" />
+        <item itemvalue="Python.P_db_Student_INFO_ver1.01" />
+        <item itemvalue="Python.P_db_Student_INFO" />
+        <item itemvalue="Python.3_db_update_rows" />
+        <item itemvalue="Python.7_db_mysql_load_from_csv_with_pk" />
+        <item itemvalue="Python.6_db_mysql_update_from_csv" />
       </list>
     </recent_temporary>
   </component>
@@ -397,14 +378,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="1272" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.42151162" visible="true" weight="0.20985691" />
-      <window_info id="Structure" order="1" sideWeight="0.57848835" side_tool="true" weight="0.26152623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41992188" visible="true" weight="0.20592384" />
+      <window_info id="Structure" order="1" sideWeight="0.5800781" side_tool="true" visible="true" weight="0.20592384" />
       <window_info id="Favorites" order="2" sideWeight="0.5009862" side_tool="true" weight="0.19713831" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3256705" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23644751" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3461047" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32871974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,7 +394,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298731" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3298731" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32871974" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32822478" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -579,202 +561,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/8_pandas_column_by_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="e#35#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/9_excel_value_meets_condition_all_worksheets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#44#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/9_pandas_value_meets_condition_all_worksheets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-          <folding>
-            <element signature="e#35#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/10_excel_column_by_name_all_worksheets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="e#44#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/10_pandas_column_by_name_all_worksheets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#35#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/11_excel_value_meets_condition_set_of_worksheets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-          <folding>
-            <element signature="e#44#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/13_pandas_concat_data_from_multiple_workbooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#35#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/13_excel_concat_data_from_multiple_workbooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/12_excel_introspect_all_workbooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#23#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/11_pandas_value_meets_condition_set_of_worksheets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#35#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/supplier_data_for_mysql_database.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/1_db_count_rows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/data_for_updating_mysql.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/data_for_updating.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/2_db_select_condition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_delete_row.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/4_Basic_machine_learning/11_tensorflow1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/2_db_insert_rows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#23#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/2_db_non_volatile_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/3_db_update_rows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-          <folding>
-            <element signature="e#23#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/supplier_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/2_db_select_condition_t.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
@@ -807,32 +597,32 @@
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/Bigdata_Repository/typeA10.csv" />
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/Bigdata_Repository/typeA0.csv" />
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/Bigdata_Repository/typeA2.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/Bigdata_Repository/시뮬레이션_서울특별시_관광지별_방문객1.csv" />
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/Bigdata_Repository/typeA3.csv" />
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/Bigdata_Repository/typeA1.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/시뮬레이션_서울특별시_관광지별_방문객.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/시뮬레이션_서울특별시_관광지별_방문객.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/1.CSV/Distributed_Repository/1_Distributed_Repository.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -869,23 +659,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/bigdata_save.py" />
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/김원상_빅데이터저장소관리실습.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_etc/Clustering/3_K_Means_with_Titanic_Dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06_etc/Clustering/2_Handling_Non_Numeric_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
@@ -902,12 +675,202 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/Clustering/3_K_Means_with_Titanic_Dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/06_etc/Clustering/4_Custom_K_Means.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
+        <state relative-caret-position="626">
           <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/김원상_빅데이터저장소관리실습.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/pandas_remove.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/3_Linear_Regression/2_linear_regression2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/output_files/5_data_from_mysql.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/data_for_updating_mysql.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/supplier_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/Final_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/python_note.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/1_db_count_rows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/2_db_insert_rows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/2_db_non_volatile_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_delete_row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/Basic_Student_Info.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/6_db_mysql_update_from_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" column="97" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/3_db_update_rows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/2_db_select_condition_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO_ver1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1524">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/5_db_mysql_write_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/7_db_mysql_load_from_csv_with_pk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/P_db_Student_INFO_ver1.01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="125" column="25" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>

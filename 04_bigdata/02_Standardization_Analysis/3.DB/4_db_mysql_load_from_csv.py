@@ -27,7 +27,15 @@ for row in file_reader:
             # a_date = a_date.strftime('%Y-%m-%d')
             data.append(a_date)
     print(data)
-    c.execute("""INSERT INTO Suppliers VALUES (%s, %s, %s, %s, %s);""", data)
+    # c.execute("""INSERT INTO Suppliers VALUES (%s, %s, %s, %s, %s);""", data)
+    # 아래 코드는 SQL injection 공격에 취약하다.
+    # c.execute("""INSERT INTO Suppliers VALUES %r;""" % (tuple(data),))
+
+    # var_string = ', '.join('?' * len(data))  # executemany 일 경우에
+    var_string = ', '.join('?' * len(data)).replace('?', '%s')
+    query_string = 'INSERT INTO Suppliers VALUES (%s);' % var_string
+    c.execute(query_string, data)
+
 con.commit()
 
 # Query the Suppliers table

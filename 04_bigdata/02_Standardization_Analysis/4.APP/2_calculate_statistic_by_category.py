@@ -51,6 +51,8 @@ with open(input_file, 'r', newline='') as input_csv_file:
         previous_package = current_package
         previous_package_date = current_package_date
 
+print(packages)
+
 header = ['Customer Name', 'Category', 'Total Time (in Days)']
 with open(output_file, 'w', newline='') as output_csv_file:
     filewriter = csv.writer(output_csv_file)

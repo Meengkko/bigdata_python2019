@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ac1d53-1c61-472d-9ecf-21ce2907b523" name="Default Changelist" comment="7월 11일">
-      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_etc/Documentation_pandas/0_ten_minutes_to_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/2_statistics_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/2_statistics_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_etc/pandas_remove.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,112 +14,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_7.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="192">
-                    <caret line="8" selection-start-line="8" selection-end-line="8" />
-                    <folding>
-                      <element signature="e#17#36#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/06_etc/Clustering/3_K_Means_with_Titanic_Dataset.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="-592">
-                    <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Titanic_on_board.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state>
-                    <caret column="2" selection-start-column="2" selection-end-column="2" />
-                    <folding>
-                      <element signature="e#132#150#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Python_Workspace" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/2_statistics_pandas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_etc/Documentation_pandas/0_ten_minutes_to_pandas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_2.py">
+        <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="527">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
-                <element signature="e#17#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="938">
-              <caret line="174" column="21" lean-forward="true" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding>
-                <element signature="e#14#33#0" expanded="true" />
+                <element signature="e#94#113#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,8 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/11_pandas_value_meets_condition_set_of_worksheets.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/12_excel_introspect_all_workbooks.py" />
         <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/13_excel_concat_data_from_multiple_workbooks.py" />
         <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/13_pandas_concat_data_from_multiple_workbooks.py" />
         <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/1_db_count_rows.py" />
@@ -200,12 +95,14 @@
         <option value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/2_statistics_pandas.py" />
         <option value="$PROJECT_DIR$/06_etc/Documentation_pandas/0_ten_minutes_to_pandas.py" />
         <option value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_2.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/qq.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_9.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="77" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1300" />
+    <option name="y" value="78" />
     <option name="width" value="1296" />
     <option name="height" value="843" />
   </component>
@@ -288,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wine_quality_2">
+  <component name="RunManager" selected="Python.wine_quality_9">
     <configuration name="0_ten_minutes_to_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,27 +199,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_etc/Documentation_pandas/0_ten_minutes_to_pandas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1_statistics_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/1_statistics_basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,6 +228,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="qq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/qq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="wine_quality_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -373,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wine_quality_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wine_quality_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,7 +282,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,19 +292,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.wine_quality_8" />
       <item itemvalue="Python.2_statistics_pandas" />
-      <item itemvalue="Python.1_statistics_basic" />
       <item itemvalue="Python.0_ten_minutes_to_pandas" />
       <item itemvalue="Python.wine_quality_2" />
+      <item itemvalue="Python.qq" />
+      <item itemvalue="Python.wine_quality_9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wine_quality_9" />
+        <item itemvalue="Python.qq" />
         <item itemvalue="Python.wine_quality_2" />
         <item itemvalue="Python.0_ten_minutes_to_pandas" />
         <item itemvalue="Python.2_statistics_pandas" />
-        <item itemvalue="Python.1_statistics_basic" />
-        <item itemvalue="Python.wine_quality_8" />
       </list>
     </recent_temporary>
   </component>
@@ -470,14 +367,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="1272" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5442834" visible="true" weight="0.27027026" />
-      <window_info id="Structure" order="1" sideWeight="0.45571658" side_tool="true" visible="true" weight="0.27027026" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.54278415" visible="true" weight="0.23977433" />
+      <window_info id="Structure" order="1" sideWeight="0.45721585" side_tool="true" visible="true" weight="0.23977433" />
       <window_info id="Favorites" order="2" sideWeight="0.5009862" side_tool="true" weight="0.19713831" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3256705" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28373703" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3128991" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32756633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -490,25 +387,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.42151162" weight="0.26152623" />
-      <window_info id="Structure" order="1" sideWeight="0.57848835" side_tool="true" weight="0.26152623" />
-      <window_info id="Favorites" order="2" sideWeight="0.5009862" side_tool="true" weight="0.19713831" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3256705" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20645906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32871974" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298731" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3298731" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32871974" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초 반영" />
@@ -652,21 +530,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/2.Excel/2_excel_parsing_and_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#44#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/수돗물_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143720" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv_t.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
@@ -990,16 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#14#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/2_statistics_pandas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1017,27 +870,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="938">
-          <caret line="174" column="21" lean-forward="true" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#17#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1047,6 +883,50 @@
           <caret column="2" selection-start-column="2" selection-end-column="2" />
           <folding>
             <element signature="e#132#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/qq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#17#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="174" column="21" lean-forward="true" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
           </folding>
         </state>
       </provider>

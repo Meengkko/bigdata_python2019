@@ -23,7 +23,7 @@ csv_data_candid = csv[list(csv.columns)[:-1]]
 max_rate = 0
 max_combination = []
 
-for num in range(16, len(csv.columns)):
+for num in range(2, len(csv.columns)):
     csv_data_list = list(combinations(csv_data_candid, num))
     for csv_data_case in csv_data_list:
         csv_data_case = csv[list(csv_data_case)]
@@ -41,5 +41,5 @@ for num in range(16, len(csv.columns)):
         print("최고 정답률: %f" % max_rate)
         print("최고 정답률 변수 리스트: ", max_combination)
 
-stop = timeit.default_timer
+stop = timeit.default_timer()
 print("코드 실행시간:", (stop - start))

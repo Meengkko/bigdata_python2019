@@ -3,6 +3,10 @@ import pandas as pd
 import os
 import matplotlib.pyplot as plt
 
+# 아래 모듈은 analysis로 넘어가야한다
+import seaborn as sns
+from sklearn.cluster import KMeans
+
 
 data_dir_list = ['d_education', 'd_population', 'd_water_quality', 'd_water_supply']
 
@@ -174,3 +178,12 @@ plt.show()
 
 dataset_merged['water_sup'].fillna(dataset_merged['water_sup'].median(), inplace=True)
 # dataset_merged.to_excel("test.xlsx", encoding='utf-8')
+
+'''
+fig, ax = plt.subplots(figsize=(16,10))
+sns.heatmap(dataset_merged.corr(), ax=ax)
+plt.show()
+
+kmeans = KMeans(n_clusters=3, init='k-means++', max_iter=300, n_init=10, random_state=0)
+kmeans.fit(dataset_merged)
+'''

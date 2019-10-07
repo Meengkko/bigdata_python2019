@@ -1,0 +1,12 @@
+
+7. sort_dataframe
+    1) sorting sliced data
+    2) sorting dataframe by one column(single or more)
+
+8. filter rows of a pandas DataFrame by column value
+    1) filtering rows by condition
+    2) quick view of loc
+
+9. multiple filter criteria
+
+

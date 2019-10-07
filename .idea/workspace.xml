@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ac1d53-1c61-472d-9ecf-21ce2907b523" name="Default Changelist" comment="7월 11일">
-      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/161_mnist_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/163_mnist_tocsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/165_mnist_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/171_lang_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/173_lang_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/184_bmi_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/185_bmi_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/192_mushroom_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_etc/Open_conpetition_water/data_analysis_prototype.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/churn_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/churn_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/lang/freq.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +27,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/churn_train.py">
+        <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/data_preparation_prototype.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-431">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="551">
+              <caret line="175" column="2" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/chisq_test_seoul.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/python_notepad.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/test.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/data_analysis_prototype.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2664">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
             </state>
           </provider>
         </entry>
@@ -51,15 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04_bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/4.APP/2_calculate_statistic_by_category.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/4.APP/2_calculate_statistic_by_category_v1.01.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/4.APP/0_Normalized_data_practice.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/4.APP/P_student_info_normalization.py" />
-        <option value="$PROJECT_DIR$/04_bigdata/02_Standardization_Analysis/3.DB/4_db_mysql_load_from_csv.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_On_Board_Titanic/0_basic_template.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_On_Board_Titanic/all_in_one.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Titanic_on_board.py" />
         <option value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/1_statistics_basic.py" />
         <option value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_1.py" />
         <option value="$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_3.py" />
@@ -91,7 +123,6 @@
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/152_xor_train2.py" />
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/155_iris_train.py" />
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/155_iris_train_1_2.py" />
-        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py" />
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/152_xor_train2_exer.py" />
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/152_xor_train2_exer2.py" />
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/155p_iris_train_nosplit.py" />
@@ -102,12 +133,22 @@
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/165_mnist_train.py" />
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/173_lang_plot.py" />
         <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/171_lang_train.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/184_bmi_create.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/185_bmi_test.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/192_mushroom_download.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train.py" />
+        <option value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train2.py" />
+        <option value="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py" />
+        <option value="$PROJECT_DIR$/06_etc/Open_conpetition_water/data_analysis_prototype.py" />
+        <option value="$PROJECT_DIR$/06_etc/Open_conpetition_water/2_statistics_pandas.py" />
+        <option value="$PROJECT_DIR$/06_etc/Open_conpetition_water/test.csv" />
+        <option value="$PROJECT_DIR$/06_etc/Open_conpetition_water/data_preparation_prototype.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1307" />
+    <option name="y" value="53" />
     <option name="width" value="1458" />
     <option name="height" value="915" />
   </component>
@@ -147,28 +188,13 @@
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="04_bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="04_AI" type="462c0819:PsiDirectoryNode" />
-              <item name="01_machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="06_etc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="06_etc" type="462c0819:PsiDirectoryNode" />
-              <item name="machine_learning_study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="06_etc" type="462c0819:PsiDirectoryNode" />
-              <item name="machine_learning_study" type="462c0819:PsiDirectoryNode" />
-              <item name="Machine_Learning_Try_In_Kaggle" type="462c0819:PsiDirectoryNode" />
+              <item name="Open_conpetition_water" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,8 +237,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.churn_train">
-    <configuration name="163_mnist_tocsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.data_preparation_prototype">
+    <configuration name="192_mushroom_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/163_mnist_tocsv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/192_mushroom_download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="165_mnist_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="193_mushroom_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +271,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/165_mnist_train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="171_lang_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="193_mushroom_train2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,7 +292,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/171_lang_train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="173_lang_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Mall_Customers_Clustering_Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,11 +309,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/173_lang_plot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="churn_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="data_preparation_prototype" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,11 +330,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_etc/Open_conpetition_water" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/churn_train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_etc/Open_conpetition_water/data_preparation_prototype.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,19 +344,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.163_mnist_tocsv" />
-      <item itemvalue="Python.165_mnist_train" />
-      <item itemvalue="Python.173_lang_plot" />
-      <item itemvalue="Python.171_lang_train" />
-      <item itemvalue="Python.churn_train" />
+      <item itemvalue="Python.192_mushroom_download" />
+      <item itemvalue="Python.193_mushroom_train" />
+      <item itemvalue="Python.193_mushroom_train2" />
+      <item itemvalue="Python.data_preparation_prototype" />
+      <item itemvalue="Python.Mall_Customers_Clustering_Analysis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.churn_train" />
-        <item itemvalue="Python.171_lang_train" />
-        <item itemvalue="Python.173_lang_plot" />
-        <item itemvalue="Python.165_mnist_train" />
-        <item itemvalue="Python.163_mnist_tocsv" />
+        <item itemvalue="Python.data_preparation_prototype" />
+        <item itemvalue="Python.Mall_Customers_Clustering_Analysis" />
+        <item itemvalue="Python.193_mushroom_train2" />
+        <item itemvalue="Python.193_mushroom_train" />
+        <item itemvalue="Python.192_mushroom_download" />
       </list>
     </recent_temporary>
   </component>
@@ -393,15 +419,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
-    <editor active="true" />
+    <frame x="1272" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5237258" visible="true" weight="0.26788554" />
-      <window_info id="Structure" order="1" sideWeight="0.47627416" side_tool="true" visible="true" weight="0.26788554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.51979566" visible="true" weight="0.23765868" />
+      <window_info id="Structure" order="1" sideWeight="0.48020434" side_tool="true" visible="true" weight="0.23765868" />
       <window_info id="Favorites" order="2" sideWeight="0.5009862" side_tool="true" weight="0.19713831" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3256705" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34371397" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32439336" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34355044" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32694763" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,108 +582,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/qq.py" />
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/2_statistics_pandas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/1_basic_example/1_statistics_basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="119" column="32" lean-forward="true" selection-start-line="119" selection-start-column="32" selection-end-line="119" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/3_Logistic_Regression_Analysis/churn.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="e#14#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#17#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/4_exam/answer_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/4_exam/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="e#94#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding>
-            <element signature="e#17#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#15#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_4_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/2_Linear_Regression_Analysis/wine_quality_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -820,16 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/155_iris_train2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/03_Statistics_basic/3_Logistic_Regression_Analysis/customer_churm_exer2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -851,27 +764,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/churn.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/churn.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/161_mnist_download.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -884,29 +790,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/mnist/train.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider editor-type-id="LargeFileEditor" />
       <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/mnist/t10k.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/mnist/t10k.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/163_mnist_tocsv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/165_mnist_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -927,16 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/171_lang_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="44" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/173_lang_plot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48">
@@ -949,10 +838,137 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/churn_train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-431">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="864">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/165_mnist_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/155_iris_train2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/171_lang_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/184_bmi_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/mushroom.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/192_mushroom_download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/185_bmi_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_bigdata/04_AI/01_machine_learning/193_mushroom_train2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/2_statistics_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/test.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/python_notepad.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/data_analysis_prototype.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/machine_learning_study/Machine_Learning_Try_In_Kaggle/Mall_Customers_Clustering_Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2664">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/chisq_test_seoul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_etc/Open_conpetition_water/data_preparation_prototype.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="175" column="2" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

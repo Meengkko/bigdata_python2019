@@ -55,13 +55,13 @@ plt.xlabel('Range of Annual Income')
 plt.ylabel('Count')
 
 
-# plt.subplot(1, 2, 2)
+plt.subplot(1, 2, 2)
 sns.set(style = 'whitegrid')
 sns.distplot(data['Age'], color = 'red')
 plt.title('Distribution of Age', fontsize = 20)
 plt.xlabel('Range of Age')
 plt.ylabel('Count')
-# plt.show()
+plt.show()
 
 labels = ['Female', 'Male']
 size = data['Gender'].value_counts()

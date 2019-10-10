@@ -14,7 +14,7 @@ fig, ax = plt.subplots(figsize=(20, 20))
 sns.heatmap(data_set.corr(), ax=ax, cmap='coolwarm')
 plt.show()
 
-'''
+
 plt.plot('detached',  # x
          'college_grad',  # y
          data=data_set,
@@ -37,7 +37,7 @@ plt.show()
 
 sns.pairplot(data_set, diag_kind='hist')
 plt.show()
-'''
+
 
 data_set_shorten = data_set.iloc[:, :16]
 sns.pairplot(data_set_shorten, diag_kind='kde', palette='bright')

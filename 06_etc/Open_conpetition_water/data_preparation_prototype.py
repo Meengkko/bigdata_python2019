@@ -2,11 +2,10 @@ import numpy as np
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
 
 # 아래 모듈은 analysis로 넘어가야한다
 import seaborn as sns
-
-
 
 data_dir_list = ['d_education', 'd_population', 'd_water_quality', 'd_water_supply']
 
@@ -97,7 +96,7 @@ pipe_df = pd.read_csv(file_dir_pipe, encoding='cp949')
 
 # 인구 종합정보 데이터 전처리
 pop_df = pop_df.drop([0])
-pop_df.columns = ["ad_district", "tot_pop", "man_pop", "woman_pop", "detached", "apt", "town", "multi", "commercial" ,"other"]
+pop_df.columns = ["ad_district", "tot_pop", "sex_ratio", "woman_pop", "detached", "apt", "town", "multi", "commercial" ,"other"]
 
 header_list_edu = edu_df.loc[0]
 header_list_edu[0] = "ad_district"
@@ -114,8 +113,9 @@ pop_df = pop_df.fillna(0)
 
 dividend_columns = numeric_columns[1:]
 pop_df[dividend_columns] = pop_df[dividend_columns].div(pop_df['tot_pop'], axis=0)
+pop_df['sex_ratio'] = pop_df['sex_ratio'].div(pop_df['woman_pop'], axis=0)
 pop_df.index = list(pop_df.iloc[:, 0])
-pop_df.drop(["ad_district", "tot_pop"], axis="columns", inplace=True)
+pop_df.drop(["ad_district", "tot_pop", 'woman_pop'], axis="columns", inplace=True)
 pop_df.drop(['읍부', '면부', '동부'], axis=0, inplace=True)
 
 index_list = list(pop_df.index)
@@ -268,7 +268,6 @@ dataset_merged = pd.merge(dataset_merged, area_df, left_index=True, right_index=
 dataset_merged = pd.merge(dataset_merged, marriage_rate, left_index=True, right_index=True, how='left')
 
 index_small = list(small_merged_data.index)
-print(small_merged_data.head(10))
 for column in sm_data_columns:
     dataset_merged[column] = 0
 
@@ -277,10 +276,7 @@ for small_index, small_row in small_merged_data.iterrows():
         if small_index == row_index.split(' ')[0]:
             dataset_merged.loc[row_index, sm_data_columns] = small_row
 
-print(dataset_merged.head(10))
-
 fillin_column = ['water_sup', 'chlorine', 'area_per_capita', 'green_per_capita']
-print(dataset_merged[fillin_column].dtypes)
 
 for fill_col in fillin_column:
     for city_name in cities_and_provinces:
@@ -315,6 +311,23 @@ dataset_merged['college_grad'].fillna(dataset_merged['college_grad'].median(), i
 dataset_merged['graduate'].fillna(dataset_merged['graduate'].median(), inplace=True)
 dataset_merged['marriage_rate'].fillna(dataset_merged['marriage_rate'].median(), inplace=True)
 
+# 변동성이 높은 변수 로그처리
+dataset_merged.loc['인천광역시 옹진군', 'area_per_capita'] = 1
+dataset_merged.loc['인천광역시 옹진군', 'green_per_capita'] = 1
+dataset_merged['area_per_capita'] = np.log(dataset_merged['area_per_capita'])
+dataset_merged['green_per_capita'] = np.log(dataset_merged['green_per_capita'])
+dataset_merged['water_sup'] = np.log(dataset_merged['water_sup'])
+
+dataset_merged.drop(cities_and_provinces, axis=0, inplace=True)
+dataset_merged.drop('전국', axis=0, inplace=True)
+
+before_cols_save = list(dataset_merged.columns)
+before_index_save = list(dataset_merged.index)
+
+# 모든 자료 스케일링(0 ~ 1)
+scaler = StandardScaler()
+dataset_merged = scaler.fit_transform(dataset_merged)
+dataset_merged = pd.DataFrame(dataset_merged)
 
 '''
 # 지역별 교육수준 박스플롯
@@ -359,11 +372,18 @@ plt.show()
 kmeans = KMeans(n_clusters=3, init='k-means++', max_iter=300, n_init=10, random_state=0)
 kmeans.fit(dataset_merged)
 '''
-fig, ax = plt.subplots(figsize=(20, 20))
-sns.heatmap(dataset_merged.corr(), ax=ax, cmap='coolwarm')
+dataset_merged.columns = before_cols_save
+dataset_merged.index = before_index_save
+list_total_data = list(dataset_merged.columns)
+ratio_data = list_total_data[:11]
+rest_of_data = list_total_data[11:]
+
+sns.boxplot(x="variable", y="value", data=pd.melt(dataset_merged[ratio_data]))
 plt.show()
 
-'''
+sns.boxplot(x="variable", y="value", data=pd.melt(dataset_merged[rest_of_data]))
+plt.show()
+
 dataset_merged.to_excel("test_ver1.01.xlsx", encoding='utf-8')
 print("save_accomplished")
-'''
+

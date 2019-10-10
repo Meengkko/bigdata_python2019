@@ -10,6 +10,10 @@ data_set = pd.read_excel('test_ver1.01.xlsx', encoding='cp949', index_col=0)
 # print(data_set.head(10))
 # print(data_set.count())
 
+fig, ax = plt.subplots(figsize=(20, 20))
+sns.heatmap(data_set.corr(), ax=ax, cmap='coolwarm')
+plt.show()
+
 '''
 plt.plot('detached',  # x
          'college_grad',  # y

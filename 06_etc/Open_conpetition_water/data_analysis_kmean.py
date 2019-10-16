@@ -10,7 +10,6 @@ fig, ax = plt.subplots(figsize=(20, 20))
 sns.heatmap(data_set.corr(), ax=ax, cmap='coolwarm')
 plt.show()
 
-'''
 # 엘보우 메소드
 Sum_of_squared_distances = []
 K = range(1, 15)
@@ -24,7 +23,6 @@ plt.xlabel('k')
 plt.ylabel('Sum_of_squared_distances')
 plt.title('Elbow Method For Optimal k')
 plt.show()
-'''
 
 
 # silhouette 메소드
